@@ -6,6 +6,10 @@ Welcome to the DuckDB workshop! This repository contains hands-on materials to e
 
 ## 📖 Workshop Materials
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mehd-io/pydata-de-duckdb-workshop/blob/main/1.hello_world_duckdb.ipynb) **1. Hello World DuckDB**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mehd-io/pydata-de-duckdb-workshop/blob/main/2.e2e_duckdb_pipeline.ipynb) **2. E2E DuckDB Pipeline**
+
 This workshop includes **two interactive notebooks** designed to be followed along during the presentation:
 
 ### 1. Hello World DuckDB (`1.hello_world_duckdb.ipynb`)
